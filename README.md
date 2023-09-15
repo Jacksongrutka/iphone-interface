@@ -7,7 +7,6 @@ este projeto em java usa interfaces e classes abstratas para criar um modelo bas
 UML do projeto;
 ![UML](https://github.com/Jacksongrutka/iphone-interface/blob/main/src/images/image.png)
 
-
 ## Aprendizados
 
 com esse projeto aprendi mais com classes abstratas e interfaces e como implementa-las, no inicio tive muita dificuldade pois estava tentando implementar a interface como primario, no IphoneDevice, porem estudando e testando entendi que a classe abstrata que precisa ser a classe primaria, e nela implementar as interfaces.
