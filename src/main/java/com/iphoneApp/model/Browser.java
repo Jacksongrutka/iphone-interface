@@ -2,10 +2,10 @@ package main.java.com.iphoneApp.model;
 
 public interface Browser {
 
-    public abstract void navigate();
+    void navigate();
 
-    public abstract void search();
+    void search();
 
-    public abstract void displayPage();
+    void displayPage();
 
 }

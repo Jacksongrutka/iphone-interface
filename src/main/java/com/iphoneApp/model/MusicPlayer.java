@@ -2,9 +2,9 @@ package main.java.com.iphoneApp.model;
 
 public interface MusicPlayer {
 
-    public abstract void playTrack();
+    void playTrack();
 
-    public abstract void stopTrack();
+    void stopTrack();
 
-    public abstract void pauseTrack();
+    void pauseTrack();
 }

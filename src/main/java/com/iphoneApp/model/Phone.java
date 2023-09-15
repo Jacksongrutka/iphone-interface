@@ -2,10 +2,10 @@ package main.java.com.iphoneApp.model;
 
 public interface Phone {
 
-    public abstract void callNumber();
+    void callNumber();
 
-    public abstract void receiveCall();
+    void receiveCall();
 
-    public abstract void endCall();
+    void endCall();
 
 }
